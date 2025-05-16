@@ -1,7 +1,5 @@
-import Flow from '@/components/Flow';
-export default function FlowChartpage() {
-  return (
-   <Flow />
- 
-  );
+import Flow from '@/components/Flow'
+
+export default function FlowChartPage() {
+	return <Flow />
 }
